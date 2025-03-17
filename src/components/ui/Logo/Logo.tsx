@@ -11,8 +11,8 @@ const Logo: React.FC<LogoProps> = (props) => {
 
   return (
     <Href to="/" className={cx('flex items-center', className)}>
-      <svg width="125" height="75">
-        <image xlinkHref="Vector.png" width="125" height="75" />
+      <svg width="71" height="16">
+        <image href="Vector.png" width="71" height="16" />
       </svg>
     </Href>
   )
