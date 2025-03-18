@@ -1,6 +1,6 @@
 import cx from 'classnames'
 import { Href } from 'components/navigation'
-import './styles.css'
+import 'src/components/ui/styles.css'
 
 
 type LogoProps = {
