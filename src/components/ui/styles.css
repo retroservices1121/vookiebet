@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'rookie';
+  src: url('https://www.1001fonts.com/rooster-personal-use-font.html?text=Vookie') format('truetype');
+}
+
+.font-rookie {
+  font-family: 'rookie', sans-serif;
+}
