@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'rookie';
-  src: url('rooster-personal-use.regular.ttf') format('truetype');
+  src: url('src/components/ui/rooster-personal-use.regular.ttf') format('truetype');
 }
 
 .font-rookie {
