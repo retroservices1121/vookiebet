@@ -1,6 +1,6 @@
-import cx from 'classnames';
-import { Href } from 'components/navigation';
-import 'src/components/ui/styles.css';
+import cx from 'classnames'
+import { Href } from 'components/navigation'
+import 'src/components/ui/styles.css'
 
 
 type LogoProps = {
@@ -8,7 +8,7 @@ type LogoProps = {
 };
 
 const Logo: React.FC<LogoProps> = (props) => {
-  const { className } = props;
+  const { className } = props
 
   return (
     <Href to="/" className={cx('flex items-center justify-center', className)}>
@@ -16,7 +16,7 @@ const Logo: React.FC<LogoProps> = (props) => {
         VOOKIE
       </span>
     </Href>
-  );
-};
+  )
+}
 
-export default Logo;
+export default Logo
