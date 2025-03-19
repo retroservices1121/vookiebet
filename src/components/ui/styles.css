@@ -1,8 +1,8 @@
-@font-face {
-  font-family: 'rookie';
-  src: url('src/components/ui/rooster-personal-use.regular.ttf') format('truetype');
+.font-rookie {
+  font-family: 'Arial', sans-serif; /* Replace 'Arial' with your desired font-family */
 }
 
-.font-rookie {
-  font-family: 'rookie', sans-serif;
+.text-vookie {
+  font-size: 5rem;
+  text-align: center;
 }
