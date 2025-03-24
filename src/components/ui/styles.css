@@ -1,8 +1,13 @@
+@font-face {
+    font-family: 'Norwester';
+    src: url('/components/ui/norwester.otf') format('opentype');
+}
+
 .font-rookie {
-  font-family: 'Arial', sans-serif; /* Replace 'Arial' with your desired font-family */
+    font-family: 'Norwester', sans-serif; /* Updated to use Norwester font */
 }
 
 .text-vookie {
-  font-size: 1.5rem;
-  text-align: center;
+    font-size: 1.5rem;
+    text-align: center;
 }
