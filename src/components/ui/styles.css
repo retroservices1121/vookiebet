@@ -15,3 +15,7 @@
     font-size: 1.5rem;
     text-align: center;
 }
+
+.spaced-text {
+    letter-spacing: 0.05rem; /* Adjust the value as needed */
+}
